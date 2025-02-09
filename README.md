@@ -36,8 +36,7 @@ I believe in the power of **Open Source** and strive to contribute to projects t
 
 ## 📫 Get in Touch
 
-- **Email**: parstech.company1@gmail.com 
-- **telegram chanell**: [hunt iran)[https://t.me/hunt_iran]
+- **Email**: code.cavv@gmail.com
 
 ---
 
@@ -45,8 +44,7 @@ I believe in the power of **Open Source** and strive to contribute to projects t
 
 If you'd like to support my work, feel free to send some love my way through my crypto wallet:
 
-- **TON COIN**: `UQCCGjx1GlgeZdjRufU5m2wqoKyCf_ePBjtM2GbjfKbisE9t`
-- **usdt on  (ETH)**: `0xC3Eb41e9e0be0f7F62232D0359f896DD1B7Ed35F`
+TON coin wallet  : `UQCd8zM2HhWAFrXQSVxXrjNqIci2IF1U7Dz3ZxvwQADmw6jT` 
 
 Your support helps me continue my journey in programming and cybersecurity!
 
